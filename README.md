@@ -14,7 +14,8 @@ An arduino UNO board was used as the micro-controller.
 Push buttons, LEDs, a piezo buzzer were used with a breadboard as the interface. 
 
 
-You can find the source code, the circuit diagram and a video demonstration in this repository as a zip file.
+You can find the source code, the circuit diagram in this repository as a zip file.
+
 
 
 
